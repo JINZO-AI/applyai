@@ -141,30 +141,7 @@ applyai/
 └── README.md
 ```
 
----
 
-## 💰 Monetization Setup
-
-**Stripe** — Create a $12/month recurring product and paste the payment link into the upgrade button.
-
-**Supabase** — Free database to track user email + usage count for the free tier limit.
-
-**Vercel Serverless** — Move the API call to `/api/generate.js` so your Anthropic key is never exposed in the browser.
-
----
-
-## 🗺️ Roadmap
-
-- [x] Cover letter generator
-- [x] Resume bullet upgrader  
-- [x] LinkedIn bio writer
-- [x] Freemium model (3 free → $12/month)
-- [ ] Stripe payment integration
-- [ ] Supabase usage tracking
-- [ ] Email capture & drip campaign
-- [ ] Referral program
-
----
 
 <div align="center">
 
